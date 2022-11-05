@@ -4,7 +4,7 @@
 
 <p> <a 
 
-href="https://mobile.twitter.com/Rahulsinghh23" target="_blank"><img alt="Twitter" 
+href="" target="_blank"><img alt="Twitter" 
 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
 
